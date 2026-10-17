@@ -12,5 +12,5 @@ A retro-CRT themed financial dashboard and expense management system tailored fo
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/financeai-student-os.git
-   cd financeai-student-os
+   git clone https://github.com/Saumayd/Financeai-student-os.git
+   cd 
