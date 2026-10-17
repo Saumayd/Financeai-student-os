@@ -1,0 +1,14 @@
+{
+  "name": "financeai-student-os",
+  "version": "2.5.0",
+  "description": "Retro CRT Student Financial OS & Express REST Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
